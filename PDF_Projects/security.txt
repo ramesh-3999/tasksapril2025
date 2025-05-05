@@ -9,5 +9,5 @@
 7. This is crucial for documents that contain **personal, financial, or business-sensitive** information.
 8. Without password protection, anyone with the file can misuse or alter the content.
 9. PDF security can also include encryption, digital signatures, and access restrictions.
-10. Using strong passwords enhances data privacy and helps comply with **data protection laws**.
+10. Using strong passwords enhances data privacy and helps comply with **data protection  laws**.
 
