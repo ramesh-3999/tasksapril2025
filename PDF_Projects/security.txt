@@ -1,0 +1,13 @@
+      PDF security and password protection
+
+1. **Security** refers to protecting data from unauthorized access, misuse, or theft.
+2. In the digital world, it's essential to secure files that contain sensitive or confidential information.
+3. **PDFs** are widely used to share documents like contracts, reports, and personal data.
+4. To prevent unauthorized viewing or editing, **password protection** is often added to PDFs.
+5. There are typically two types of PDF passwords: one to **open/view** and one to **edit/print**.
+6. Passwords help ensure that only the **intended recipients** can access the content.
+7. This is crucial for documents that contain **personal, financial, or business-sensitive** information.
+8. Without password protection, anyone with the file can misuse or alter the content.
+9. PDF security can also include encryption, digital signatures, and access restrictions.
+10. Using strong passwords enhances data privacy and helps comply with **data protection laws**.
+
